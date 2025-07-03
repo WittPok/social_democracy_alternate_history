@@ -613,7 +613,7 @@ Q.center_dissent = 25;
 Q.z_relation = 41;
 Q.kpd_relation = 16;
 Q.dvp_relation = 31;
-Q.budget = 2;
+Q.budget = 2121212;
 this.state.disableSaves = true;
 !}
 go-to: 1928_main

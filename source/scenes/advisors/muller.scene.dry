@@ -16,7 +16,7 @@ Müller is a former [? if chancellor = "Müller": and current ?] Chancellor, and
 - @root: Return to main
 
 @coalition
-title: Negotiating with the Coalition
+title: Tets
 subtitle: Müller can improve our relationships with our coalition partners.
 choose-if: advisor_action_timer <= 0 and spd_in_government = 1
 unavailable-subtitle: [? if advisor_action_timer > 0 : [+ advisor_action_timer +] months before next advisor action. ?][? if not spd_in_government: The SPD is not in government. ?]
